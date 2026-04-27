@@ -1,0 +1,227 @@
+"features": [
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD ANTOFAGASTA" },
+  "geometry": { "type": "Point", "coordinates": [-70.3881944444, -23.6113055556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD ARICA" },
+  "geometry": { "type": "Point", "coordinates": [-70.3013055556, -18.4674166667] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD CALAMA" },
+  "geometry": { "type": "Point", "coordinates": [-68.8923888889, -22.4355] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD CASTRO" },
+  "geometry": { "type": "Point", "coordinates": [-73.74225, -42.3691388889] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD CERVECERA" },
+  "geometry": { "type": "Point", "coordinates": [-70.7050555556, -33.3586111111] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD CHILLÁN" },
+  "geometry": { "type": "Point", "coordinates": [-72.1837777778, -36.6305833333] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD COPIAPÓ" },
+  "geometry": { "type": "Point", "coordinates": [-70.3805277778, -27.3324444444] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD COQUIMBO" },
+  "geometry": { "type": "Point", "coordinates": [-71.2653611111, -29.9716388889] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD COYHAIQUE" },
+  "geometry": { "type": "Point", "coordinates": [-72.0793888889, -45.5913888889] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD CURAUMA" },
+  "geometry": { "type": "Point", "coordinates": [-71.5523888889, -33.1349166667] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD ILLAPEL" },
+  "geometry": { "type": "Point", "coordinates": [-71.1898888889, -31.6463055556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD IQUIQUE" },
+  "geometry": { "type": "Point", "coordinates": [-70.0815, -20.2660833333] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD LA VARA" },
+  "geometry": { "type": "Point", "coordinates": [-70.7156666667, -33.5632222222] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD LLAY LLAY" },
+  "geometry": { "type": "Point", "coordinates": [-70.9601944444, -32.8462222222] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD LOS ÁNGELES" },
+  "geometry": { "type": "Point", "coordinates": [-72.3376944444, -37.42325] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD MODELO" },
+  "geometry": { "type": "Point", "coordinates": [-70.6861666667, -33.4070555556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD OSORNO" },
+  "geometry": { "type": "Point", "coordinates": [-73.1261111111, -40.57025] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD OVALLE" },
+  "geometry": { "type": "Point", "coordinates": [-71.3625277778, -30.6633888889] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD PUERTO MONTT" },
+  "geometry": { "type": "Point", "coordinates": [-73.0233333333, -41.4880555556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD RANCAGUA" },
+  "geometry": { "type": "Point", "coordinates": [-70.7835555556, -34.17725] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD RENCA" },
+  "geometry": { "type": "Point", "coordinates": [-70.7746666667, -33.4089722222] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD SANTIAGO SUR" },
+  "geometry": { "type": "Point", "coordinates": [-70.7181666667, -33.5459444444] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD TALCA" },
+  "geometry": { "type": "Point", "coordinates": [-71.6440833333, -35.4472222222] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD TALCAHUANO" },
+  "geometry": { "type": "Point", "coordinates": [-73.1046666667, -36.7780277778] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD TEMUCO" },
+  "geometry": { "type": "Point", "coordinates": [-72.4774166667, -38.6550555556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "⭐ CD VALDIVIA" },
+  "geometry": { "type": "Point", "coordinates": [-73.2185166111, -39.7328323056] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🔵 CL ANTOFAGASTA" },
+  "geometry": { "type": "Point", "coordinates": [-70.3881944444, -23.6113055556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🔵 CL CERVECERA" },
+  "geometry": { "type": "Point", "coordinates": [-70.7050555556, -33.3586111111] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🔵 CL COINCO" },
+  "geometry": { "type": "Point", "coordinates": [-70.9268055556, -34.2603055556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🔵 CL MODELO" },
+  "geometry": { "type": "Point", "coordinates": [-70.6803055556, -33.4092777778] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🔵 CL TEMUCO" },
+  "geometry": { "type": "Point", "coordinates": [-72.4774166667, -38.6550555556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR ANGOL" },
+  "geometry": { "type": "Point", "coordinates": [-72.7018668, -37.8049816] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR ARAUCO" },
+  "geometry": { "type": "Point", "coordinates": [-73.2411666667, -37.2489722222] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR LA LIGUA" },
+  "geometry": { "type": "Point", "coordinates": [-71.2537222222, -32.4532777778] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR LONTUÉ" },
+  "geometry": { "type": "Point", "coordinates": [-71.2674722222, -35.0566388889] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR MELIPILLA" },
+  "geometry": { "type": "Point", "coordinates": [-71.2119722222, -33.6712222222] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR PAILIMO" },
+  "geometry": { "type": "Point", "coordinates": [-71.7761388889, -34.3098611111] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR PARRAL" },
+  "geometry": { "type": "Point", "coordinates": [-71.8175958, -36.1354397] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR PUCHUNCAVÍ" },
+  "geometry": { "type": "Point", "coordinates": [-71.4665, -32.7444444444] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR SAN ANTONIO" },
+  "geometry": { "type": "Point", "coordinates": [-71.5639722222, -33.5644722222] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR SAN FERNANDO" },
+  "geometry": { "type": "Point", "coordinates": [-70.9776944444, -34.573] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR SAN PEDRO DE ATACAMA" },
+  "geometry": { "type": "Point", "coordinates": [-68.2016666667, -22.9086388889] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR VALLENAR" },
+  "geometry": { "type": "Point", "coordinates": [-70.7878055556, -28.57075] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR VILLARRICA" },
+  "geometry": { "type": "Point", "coordinates": [-72.2787777778, -39.2310555556] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟢 FL RENCA" },
+  "geometry": { "type": "Point", "coordinates": [-70.7746666667, -33.4089722222] }
+}
+]
