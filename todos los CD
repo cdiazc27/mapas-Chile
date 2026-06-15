@@ -223,5 +223,11 @@
   "type": "Feature",
   "properties": { "nombre": "🟢 FL RENCA" },
   "geometry": { "type": "Point", "coordinates": [-70.7746666667, -33.4089722222] }
+},
+{
+  "type": "Feature",
+  "properties": { "nombre": "🟡 CTR CONSTITUCION" },
+  "geometry": { "type": "Point", "coordinates": [-72.43711430333738, --35.401740552508976] }
 }
 ]
+
